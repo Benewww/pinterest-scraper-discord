@@ -136,10 +136,6 @@ pip install webdriver-manager
 - Avoid excessive requests to prevent being blocked
 - Use appropriate delays between requests
 
-## License
-
-MIT License - See LICENSE file for details
-
 ## Contributing
 
 Contributions are welcome! Feel free to:
